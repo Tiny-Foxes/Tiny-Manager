@@ -1,0 +1,20 @@
+{
+  "name": "tiny-manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node src/index.js"
+  },
+  "author": "Jorge Luiz Souza Xavier",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@octokit/rest": "^18.1.0",
+    "dir-compare": "^3.1.5",
+    "download-git-repo": "^3.0.2",
+    "fs-extra": "^9.1.0",
+    "ini-parser": "0.0.2",
+    "isomorphic-git": "^1.8.0",
+    "slash": "^3.0.0"
+  }
+}
